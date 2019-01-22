@@ -2,11 +2,11 @@
 Visualizer for Pokemon Let's Go link codes
 
 ## How To Use
-Visit the live site at [pokeshare.github.io](pokeshare.github.io) to get a random code. You can use
+Visit the live site at [www.amccarthy.me/pokeshare](https://www.amccarthy.me/pokeshare) to get a random code. You can use
 that code in-game and share the URL with others.
 
 ## Input Custom Code
-Add an anchor to the URL (e.g. `pokeshare.github.io#000`) according to the
+Add an anchor to the URL (e.g. `https://www.amccarthy.me/pokeshare#000`) according to the
 following table 
 
 |Image|Number|

@@ -2,7 +2,7 @@
 Visualizer for Pokemon Let's Go link codes
 
 ## How To Use
-Visit the live site at pokeshare.github.io to get a random code. You can use
+Visit the live site at [pokeshare.github.io](pokeshare.github.io) to get a random code. You can use
 that code in-game and share the URL with others.
 
 ## Input Custom Code
